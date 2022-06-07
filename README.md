@@ -1,4 +1,6 @@
-ATSS Analyzer & Simplifier is a tool that I developed as my college project. It contains various operations related to Encryption/Decryption, Encoding/Decoding, & Hashing. It basically contains 5 modules which consist of operations as follows:-
+# ATSS
+ATSS Analyzer & Simplifier is a tool that I developed as my college project. It contains various operations related to Encryption/Decryption, Encoding/Decoding, & Hashing.
+It basically contains 5 modules which consist of operations as follows:-
 
 Module 1:- Consist of Operations which include conversion of ASCII into HEX, Decimal, Binary & vice-versa
 
